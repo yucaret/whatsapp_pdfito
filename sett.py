@@ -1,22 +1,16 @@
 import os
 
-#token = os.getenv("TOKEN_PERSONAL")
-token = 'bigdateros'
+token = os.getenv("TOKEN_PERSONAL")
 
-#whatsapp_token = os.getenv("TOKEN_WAPP")
-whatsapp_token = 'EAAPNsmzVTZB4BOZCJMHZC4bfa8e5UsBjByexIakNp1WXIUVxPiJ0eyK50JhNjFm78qZCztS40WCDOxKK6ZBqOaeHxSGZBCoAnQVYtyc2WL4wsnxdUzZCVRUZAbavccWP36V2NUZCTPu4E3A8ZAXKA79SV4ZA15fAdRZCJdt9cMGCeQ6k5XS2U1jQZC64PrY0uNFz3RMk6woUVmCb04cfpiTmZAHEXP5TNX2sbNaT39NlUZD'
+whatsapp_token = os.getenv("TOKEN_WAPP")
 
-#whatsapp_url = os.getenv("WAPP_URL")
-whatsapp_url = 'https://graph.facebook.com/v17.0/108681648964959/messages'
+whatsapp_url = os.getenv("WAPP_URL")
 
-#whatsapp_phone_number_id = os.getenv("WAPP_PHONE_NUMBER_ID")
-whatsapp_phone_number_id = '108681648964959'
+whatsapp_phone_number_id = os.getenv("WAPP_PHONE_NUMBER_ID")
 
-#openai_api_key = os.getenv("TOKEN_OPENAI_CHATGPT")
-openai_api_key = 'APNsmzVTZB4BOZCJMHZC4bfa8e5UsBjByexIak'
+openai_api_key = os.getenv("TOKEN_OPENAI_CHATGPT")
 
-#celular_gerente = os.getenv("CELULAR_GERENTE")
-celular_gerente = '51949702168'
+celular_gerente = os.getenv("CELULAR_GERENTE")
 
 media_types = {
     #'audio/aac': 'aac',
