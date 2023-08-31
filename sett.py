@@ -12,6 +12,8 @@ openai_api_key = os.getenv("TOKEN_OPENAI_CHATGPT")
 
 celular_gerente = os.getenv("CELULAR_GERENTE")
 
+busqueda_url = os.getenv("API_URL_ENEL")
+
 media_types = {
     #'audio/aac': 'aac',
     #'audio/mp4': 'mp4',
@@ -49,5 +51,3 @@ stickers = {
     "gato_triste": 210492141865964,
     "gato_cansado": 1021308728970759
 }
-
-busqueda_url = "https://www.enel.pe/es/personas/consulta-ultimo-recibo-deluz.mdwedgeohl.getHistoricalInvoices.html?supplyCode="
