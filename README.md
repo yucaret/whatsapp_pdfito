@@ -8,6 +8,6 @@ Este proyecto consiste en un chatbot programado en Python diseñado para simplif
 
 *Carga de Datos desde Archivo CSV: También es posible cargar múltiples solicitudes de recibos a la vez mediante la carga de un archivo CSV. El chatbot procesará las solicitudes y enviará los recibos a los números de suministro especificados en el archivo.
 
-#Lenguaje de Programación:
+# Lenguaje de Programación:
 
 Este chatbot ha sido desarrollado en Python, aprovechando la versatilidad de Flask para la creación de la interfaz de usuario y la gestión de las solicitudes de WhatsApp, así como Pandas para el procesamiento eficiente de datos.
